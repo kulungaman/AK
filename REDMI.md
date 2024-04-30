@@ -1,8 +1,8 @@
-Introduction
+#Introduction
 
 This is a simple command-line bank management system written in C. The project aims to provide basic functionalities for managing bank accounts.
 
-Team Members
+#Team Members
 
 • Ashish Bhattarai
 
@@ -12,7 +12,7 @@ Arjun Gautam
 
 Shishir Bhandari
 
-Features
+#Features
 
 1. Create Account: Allow users to create new bank accounts by providing account holder details such as name, address, gender, age, contact number, email, and trustee name.
 
@@ -30,7 +30,7 @@ Features
 
 8. Load Accounts from File: Provide the ability to load previously saved account data from a file on program startup.
 
-Usage
+#Usage
 
 1. Run Code: After successfully build and run ,the basic flow of code is 
 
